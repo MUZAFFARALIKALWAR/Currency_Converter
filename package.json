@@ -1,0 +1,17 @@
+{
+  "name": "muzaffar_ali_kalwar_currency-converter",
+  "version": "1.0.0",
+  "description": "this is a simple currency-converter with typescript, inquirer and node.js",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.20"
+  }
+}
